@@ -1,5 +1,4 @@
 {
-  "name": "im-sunil/create-react-app",
   "private": true,
   "workspaces": ["packages/*"],
   "scripts": {
